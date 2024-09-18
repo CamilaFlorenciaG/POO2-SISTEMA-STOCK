@@ -1,2 +1,2 @@
-# grupo-14-OO2-2024
-Grupo 14 - Trabajo Práctico Cuatrimestral - Orientación a Objetos II
+# POO2-SISTEMA-STOCK
+Grupo 14 | Trabajo Práctico Cuatrimestral UNLA | Sistema de Stock | Programación Orientada a Objetos II 
